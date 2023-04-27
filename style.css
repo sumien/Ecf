@@ -1,0 +1,51 @@
+body {  
+    margin: 2%;
+    background-color: rgb(226, 251, 205);
+}
+/* barre de navigation */
+.navbar-dark {
+    background-color: rgb(10, 97, 100);
+}
+a:hover {
+    background-color: rgb(108, 187, 248);
+}
+
+/* Accueil */
+h4 {
+    text-align: center;
+}
+
+
+/* contact */
+fieldset{
+    text-align: center;
+}
+h6{
+    text-align: center;
+}
+
+.col-5{
+    text-align: left;
+}
+.col-6{
+   float: left;
+}
+img{
+    border-radius: 5%;
+}
+/* Bas de page  */
+footer{
+    text-align: center;
+    background-color: rgb(34, 82, 34);
+    font-weight: bold;
+    margin: 1%;
+    padding: 1%;
+    color: rgb(240, 231, 232);
+
+}
+h6{
+    text-align: center;
+}
+label,input{
+    text-align: center;
+}

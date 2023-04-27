@@ -1,0 +1,1 @@
+localStorage.SetItem("nom","catherine");
